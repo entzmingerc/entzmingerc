@@ -5,4 +5,4 @@ I recently graduated from University of Nebraska-Lincoln in 2023 with a Ph.D. in
 - ◻️ Fixing [various ports](<https://github.com/entzmingerc/nb_drumcrow>) of [drumcrow](<https://github.com/entzmingerc/drumcrow>), updating [pit orchisstra](<https://github.com/entzmingerc/pit-orchisstra>), and working on an instrument using [RAVE](<https://github.com/entzmingerc/RAVE_instrument>).  
 - 🌻 Interested in anything renewables.
 - 💻 Let's talk about machine learning and power electronics.
-- 📖 Python, Lua, MATLAB, and COMSOL.
+- 📖 Python, Lua, MATLAB, COMSOL, and SuperCollider.
